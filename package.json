@@ -1,7 +1,9 @@
 {
-  "name": "store-digital-colleague-app",
-  "version": "1.0.0",
-  "proxy": "http://localhost:8000/api",
+  "name": "store-digital-assistant-webapp",
+  "version": "0.1.0",
+  "description": "The web app of the Store Digital Assistant (SDA) project.",
+  "author": "Sam Hirst (hirst.me) <SamuelJHirst@outlook.com>",
+  "license": "ISC",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
